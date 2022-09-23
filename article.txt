@@ -1,0 +1,1 @@
+In OOP, when creating constructors, you want to use the word this to initialize the new valued parameter being passed in to the class's private variable. You can overload or override a constructors. you can see how these are some of the features and rules of OOP. Here is the word this again.
